@@ -3,15 +3,6 @@ let nome: string = 'Felipe',
 let idade: number = 27, 
 let local: string = 'PE/Brazil';
 ```
-```
-fn main() {
-    let name = 'Rafael Carneiro';
-    let acknowledgements = 'Software Engineer';
-
-    let location = 'Fortaleza, Ceara, Brazil';
-    let company = 'O2D - On Demand Development';
-}
-```
 :rocket: Olá a todos! Meu nome é **Felipe Ramos**. Sou um Analista de Desenvolvimento de Sistemas, Designer Gráfico e Desenvolvedor Front-End em formação.
 
 ## Sobre Mim
