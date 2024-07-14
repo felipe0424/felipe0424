@@ -1,6 +1,10 @@
-# Readme Portfólio :rocket:
+```
+let nome: string = 'Felipe', 
+let idade: number = 18, 
+let local: string = 'PE/Brazil';
+```
 
-Olá a todos! Meu nome é **Felipe Ramos**. Sou um Analista de Desenvolvimento de Sistemas, Designer Gráfico e Desenvolvedor Front-End em formação.
+:rocket: Olá a todos! Meu nome é **Felipe Ramos**. Sou um Analista de Desenvolvimento de Sistemas, Designer Gráfico e Desenvolvedor Front-End em formação.
 
 ## Sobre Mim
 Sou um Desenvolvedor Pleno com foco na aprendizagem e criar soluções inovadoras e eficazes. **Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.** Minha experiência abrange diversas áreas, analista de sistema, banco de dados, design gráfico e experiência do usuário. Meu objetivo é proporcionar interfaces de usuário atraentes e funcionais que ofereçam uma experiência excepcional.
