@@ -13,13 +13,13 @@ Uma forte influência no Design Gráfico, aprimoro a experiência do usuário pa
 > *Clique nos ícones para mais informações*
 <div align="auto">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/user-attachments/assets/3804386a-094d-42de-8a5d-f4dfb033ffba" alt="js" width="50"></a>
-    <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/b0cd55d7-f6f0-4cf9-a90d-db45c1832215" alt="html" width="50"></a>
-    <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/6bcb928a-c5f9-4030-9258-3cacee37f553" alt="css" width="50"></a>
-    <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/d3813ef4-1409-40c9-9bfb-6e988f79b2c8" alt="Git" width="50"></a>
-    <a href="https://nodejs.org" target="_blank"><img src="https://github.com/user-attachments/assets/b03adba8-e155-4555-8737-2afaf449620d" alt="Node" width="50"></a>
-    <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/152b6027-0e65-45ba-bdcf-c904709fa510" alt="Figma" width="50"></a>
-    <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/983173f4-f907-4560-b777-7c391d62b62d" alt="photoshop" width="50"></a>
-    <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/82f5702e-0d5e-4f98-8fdd-a8cdb9c8bcb7" alt="Illustrator" width="50"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://github.com/user-attachments/assets/b0cd55d7-f6f0-4cf9-a90d-db45c1832215" alt="html" width="50"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/user-attachments/assets/6bcb928a-c5f9-4030-9258-3cacee37f553" alt="css" width="50"></a>
+    <a href="https://git-scm.com/about" target="_blank"><img src="https://github.com/user-attachments/assets/d3813ef4-1409-40c9-9bfb-6e988f79b2c8" alt="Git" width="50"></a>
+    <a href="https://nodejs.org/en/about" target="_blank" target="_blank" target="_blank"><img src="https://github.com/user-attachments/assets/b03adba8-e155-4555-8737-2afaf449620d" alt="Node" width="50"></a>
+    <a href="https://www.figma.com/pt-br/product-managers/" target="_blank"><img src="https://github.com/user-attachments/assets/152b6027-0e65-45ba-bdcf-c904709fa510" alt="Figma" width="50"></a>
+    <a href="https://www.adobe.com/br/about-adobe.html" target="_blank"><img src="https://github.com/user-attachments/assets/983173f4-f907-4560-b777-7c391d62b62d" alt="photoshop" width="50"></a>
+    <a href="https://www.adobe.com/br/about-adobe.html" target="_blank"><img src="https://github.com/user-attachments/assets/82f5702e-0d5e-4f98-8fdd-a8cdb9c8bcb7" alt="Illustrator" width="50"></a>
 </div>
 
 ## Contato
