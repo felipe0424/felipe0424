@@ -1,4 +1,4 @@
-```
+```rust
 let nome: string = 'Felipe', 
 let idade: number = 27, 
 let local: string = 'PE/Brazil';
